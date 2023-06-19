@@ -1,0 +1,2 @@
+export const supabaseUrl = 'https://boldsyjiflionkwayfuf.supabase.co';
+export const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJvbGRzeWppZmxpb25rd2F5ZnVmIiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODcxNzI2MzMsImV4cCI6MjAwMjc0ODYzM30.GbyWc0iQwg-Rv1l2_Nt6JNMCCnGAbW4zSquH0uQf9hE';
